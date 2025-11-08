@@ -21,7 +21,7 @@
 |[Проект 3. Бэклог приложения для сети клиник «Вита»](https://docs.google.com/document/d/1HbZT1X3VeAhjzTXsOh2dcDXXhZYZSubnSAQYUx6WxXU/edit?usp=sharing)| Разработана User Story Map приложения, определён MVP, созданы прототипы и DFD. | `User Stories`, `Job Stories`, `User Story Map`, `DFD`, `Figma`, `UX-проектирование` |
 |[Проект 4. Разработка API для сервиса Otium](https://docs.google.com/document/d/1HZRatfC9iGSnUhx4ZP4LM5oqLGKwlOyvSueIBgYlzUE/edit?usp=sharing)| Сформулирована задача для backend-разработчика по доработке API. | `UML Sequence Diagram`, `REST API`, `JSON`, `Swagger` |
 |[Проект 5. Разработка приложения Stets для умного дома] часть 1: (https://drive.google.com/drive/folders/1jTRaQFU6D4TbpaoQ7yapToVmtpoE9VQY?usp=drive_link)| Проведён системный анализ, сформированы требования к MVP. | `User Story Map`, `ER-диаграмма`, `словарь данных` | 
-часть 2:
+часть 2: в процессе работы
 
 ---
 
