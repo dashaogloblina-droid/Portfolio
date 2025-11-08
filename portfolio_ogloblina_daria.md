@@ -8,7 +8,7 @@
 В этом портфолио представлены примеры учебных и практических проектов, демонстрирующих мои навыки в системном анализе, проектировании, UX-прототипировании и описании бизнес-логики.
 
 📍 Локация: Уфа (+2 МСК)  
-📩 Контакты: [Telegram](https://t.me/yourusername) | [Email](mailto:yourmail@example.com) | [GitHub](https://github.com/yourusername)
+📩 Контакты: [Telegram](https://t.me/dashktaechery) | [Email](dasogloblina@yandex.ru) | [GitHub](https://github.com/dashaogloblina-droid)
 
 ---
 
@@ -43,7 +43,7 @@
 ---
 
 ## Контакты  
-📬 [Telegram](t.me/dashktaechery)  
+📬 [Telegram](https://t.me/dashktaechery)  
 📧 [Email](dasogloblina@yandex.ru)  
 💼 [GitHub](https://github.com/dashaogloblina-droid)
 
